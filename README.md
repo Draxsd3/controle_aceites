@@ -14,7 +14,18 @@ Este repositório contém o código-fonte de um sistema de controle de aceites d
 
 ## 📂 Estrutura do Projeto
 
-/server → Código do backend (Node.js + Express) /src → Código do frontend (React) /sql → Scripts do banco de dados /backups → Backups da base de dados .env → Arquivo de configuração de variáveis de ambiente
+/server
+
+    → Código do backend (Node.js + Express) /src 
+    
+    → Código do frontend (React) /sql 
+        
+    → Scripts do banco de dados /backups 
+  
+    → Backups da base de dados .env 
+    
+    → Arquivo de configuração de variáveis de ambiente
+    
 
 
 ---
